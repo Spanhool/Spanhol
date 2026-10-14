@@ -27,7 +27,7 @@ Sou apaixonado por tecnologia e pelo desenvolvimento de soluções digitais. Atu
 
 Aplicação web para gerenciamento de finanças pessoais, com controle de receitas, despesas e movimentações financeiras.
 
-![Preview do Dashboard Financeiro] <img src="./assets/dashboard.png" alt="Dashboard Financeiro" width="600">
+<img src="./assets/dashboard.png" alt="Dashboard Financeiro" width="600">
 
 **Tecnologias:** HTML, CSS e JavaScript
 
@@ -39,7 +39,7 @@ Aplicação web para gerenciamento de finanças pessoais, com controle de receit
 
 Landing page responsiva desenvolvida para uma oficina mecânica, com apresentação de serviços e integração com WhatsApp.
 
-![Preview da Mecânica Perimetral Sul] <img src="./assets/perimetral-sul.png" alt="Mecânica Perimetral Sul" width="600">
+<img src="./assets/perimetral-sul.png" alt="Mecânica Perimetral Sul" width="600">
 
 **Tecnologias:** HTML, CSS e JavaScript
 
