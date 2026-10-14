@@ -20,13 +20,31 @@ Sou apaixonado por tecnologia e pelo desenvolvimento de soluções digitais. Atu
 
 ### Projetos em destaque
 
-**Dashboard Financeiro**
 
-Aplicação web para gerenciamento de receitas, despesas e movimentações financeiras, desenvolvida com HTML, CSS e JavaScript.
+### Projetos em destaque
 
-**Mecânica Perimetral Sul**
+#### [Dashboard Financeiro](https://github.com/Spanhool/Dashboard-Financeiro)
 
-Landing page responsiva para uma oficina mecânica, com apresentação de serviços e integração com WhatsApp.
+Aplicação web para gerenciamento de finanças pessoais, com controle de receitas, despesas e movimentações financeiras.
+
+![Preview do Dashboard Financeiro](./assets/dashboard.png)
+
+**Tecnologias:** HTML, CSS e JavaScript
+
+[Repositório](https://github.com/Spanhool/Dashboard-Financeiro)
+
+---
+
+#### Mecânica Perimetral Sul
+
+Landing page responsiva desenvolvida para uma oficina mecânica, com apresentação de serviços e integração com WhatsApp.
+
+![Preview da Mecânica Perimetral Sul](./assets/perimetral-sul.png)
+
+**Tecnologias:** HTML, CSS e JavaScript
+
+[Repositório](COLE_AQUI_O_LINK_DO_REPOSITORIO)
+
 
 ### Contato
 
