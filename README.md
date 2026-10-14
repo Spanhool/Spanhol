@@ -43,7 +43,7 @@ Landing page responsiva desenvolvida para uma oficina mecânica, com apresentaç
 
 **Tecnologias:** HTML, CSS e JavaScript
 
-[Repositório](COLE_AQUI_O_LINK_DO_REPOSITORIO)
+[Repositório](https://github.com/Spanhool/mecanica-perimetral-sul)
 
 
 ### Contato
