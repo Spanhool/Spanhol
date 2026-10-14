@@ -28,7 +28,8 @@ Aplicação web para gerenciamento de receitas, despesas e movimentações finan
 
 Landing page responsiva para uma oficina mecânica, com apresentação de serviços e integração com WhatsApp.
 
-### Vamos conectar?
+### Contato
 
-Estou sempre aberto a trocar experiências, aprender e conhecer novas oportunidades.
+- LinkedIn: https://www.linkedin.com/in/luiz-spanhol
+- E-mail: luizeduardo3190@gmail.com
 
